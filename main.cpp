@@ -12,12 +12,6 @@
  * the program prints the standings and informs who was the winner and how
  * many pairs the winner had.
  *
- *
- * Creator of the program
- * Name: Ville Niemi
- * Student number: 050233597
- * Username: dxvini
- * E-mail: ville.j.niemi@tuni.fi
  * */
 
 
